@@ -2,6 +2,12 @@
 
 Modern Markdown note-taking web app with folders, dark/light mode, live preview, and export to PDF/MD.
 
+## Screenshots
+
+![Screenshot 1](https://github.com/SyedShaheerHussain/markdown-note-app/blob/1fec7c8a1ac827d106eb4096a2b8a7c7975caaf7/markdown-note-app/sceenshots/Screenshot%20(51).png)
+
+![Screenshot 2](https://github.com/SyedShaheerHussain/markdown-note-app/blob/1fec7c8a1ac827d106eb4096a2b8a7c7975caaf7/markdown-note-app/sceenshots/Screenshot%20(52).png)
+
 ## **Introduction**
 
 A modern, professional, and fully-featured **Markdown note-taking web app** that supports **folders, dark/light mode, live preview, exporting notes to PDF/Markdown**, and local storage. Designed for developers, students, and anyone who wants a clean, productive note-taking experience.
